@@ -1,1 +1,1 @@
-<?php header( 'Location: /screencasts/introToAngular/exampleViewer/index.html' ) ; ?>
+<?php header( 'Location: /introToAngular/exampleViewer/index.html' ) ; ?>
